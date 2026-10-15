@@ -1,4 +1,5 @@
-name: Deploy AETHER AI to GitHub Pages
+# Trigger ATHER AI deployment
+name: Deploy AETHER AI to Github Pages
 
 on:
   push:
